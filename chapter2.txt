@@ -1,2 +1,4 @@
 Hello this is chapter 2.
 progress in learning git
+
+add another liane in chapter 2
